@@ -1,0 +1,29 @@
+body {
+    font-family: 'ff-tisa-sans-web-pro', serif;
+}
+
+header {
+	margin-top: 70px;
+	text-align: center;
+}
+
+header img {
+	margin: 0 auto;
+	display:block;
+	max-width: 100%;
+}
+
+main {
+	margin-top: 70px;
+}
+
+main img {
+	margin-top: 30px;
+	width: 100%;
+}
+
+footer {
+	margin-top: 70px;
+	margin-bottom: 70px;
+	text-align: center;
+}
