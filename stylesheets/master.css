@@ -10,7 +10,14 @@ header {
 header img {
 	margin: 0 auto;
 	display:block;
-	max-width: 100%;
+}
+
+#logotype {
+	max-width: 600px;
+}
+
+#comingsoon {
+	max-width: 165px;
 }
 
 main {
